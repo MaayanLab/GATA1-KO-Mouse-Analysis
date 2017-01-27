@@ -1,0 +1,247 @@
+	Term	p-value	z-score	CS	Related Genes
+1	Cytoplasmic Ribosomal Proteins (Mus Musculus)	2.59e-06	-1.91	14.08	RPS15, RPL3, RPL18A, RPL32, RPS29, RPL12, RPL24, RPL27, RPL39, RPS13, RPS24, RPL19
+2	B Cell Receptor Signaling Pathway (Homo Sapiens)	9.72e-05	-2.0	10.56	MAP4K1, NFKBIA, MEF2C, BCL6, CD81, IRF4, PLCG2, REL, ETS1, FOXO1, RELA
+3	Cytoplasmic Ribosomal Proteins (Homo Sapiens)	8.82e-05	-1.91	10.07	RPL3, RPL32, RPL12, RPS15, RPL18A, RPS29, RPL24, RPL27, RPL39, UBA52, RPS13, RPS24, RPL19
+4	Adipogenesis Genes (Mus Musculus)	1.02e-04	-1.88	9.93	CEBPB, EGR2, MBNL1, MEF2C, GADD45A, STAT3, IRS2, MIF, FOXO1, KLF7, SOCS3, KLF6, LMNA
+5	Diurnally Regulated Genes With Circadian Orthologs (Mus Musculus)	1.09e-04	-1.85	9.78	DAZAP2, HSPA8, PER1, PPP2CB, CEBPB, BTG1, KLF9, HERPUD1
+6	Diurnally Regulated Genes With Circadian Orthologs (Homo Sapiens)	1.40e-04	-1.83	9.68	DAZAP2, HSPA8, PER1, PPP2CB, CEBPB, BTG1, KLF9, HERPUD1
+7	Adipogenesis (Homo Sapiens)	1.45e-04	-1.83	9.67	CEBPB, EGR2, MBNL1, MEF2C, GADD45A, STAT3, IRS2, MIF, FOXO1, KLF7, SOCS3, KLF6, LMNA
+8	Exercise-Induced Circadian Regulation (Mus Musculus)	1.79e-04	-1.76	9.18	DAZAP2, HSPA8, PER1, PPP2CB, CEBPB, BTG1, KLF9, HERPUD1
+9	Interferon Type I Signaling Pathways (Homo Sapiens)	4.76e-04	-1.71	7.42	EIF4A1, SOCS3, MAP3K1, LCK, STAT3, PDCD4, REL, IRS2
+10	Tcr Signaling Pathway (Homo Sapiens)	1.19e-03	-1.73	6.09	MAP4K1, NFKBIA, CD83, IRF4, REL, CD3G, CD3E, CD3D, RELA
+11	Oncostatin M Signaling Pathway (Homo Sapiens)	3.03e-03	-1.72	4.68	NFKBIA, EGR1, SOCS3, CEBPB, STAT3, JUNB, RELA
+12	Tnf-Alpha Nf-Kb Signaling Pathway (Mus Musculus)	5.12e-03	-1.67	4.24	NFKBIA, MAP3K1, TBK1, EIF4A3, NFKBIZ, POLR1D, REL, TNFAIP3, YWHAZ, MARK2, RELA, RPS13
+13	Il-4 Signaling Pathway (Homo Sapiens)	4.78e-03	-1.64	4.18	NFKBIA, SOCS3, CEBPB, STAT3, IRS2, RELA
+14	Apoptosis-Related Network Due To Altered Notch3 In Ovarian Cancer (Homo Sapiens)	4.39e-03	-1.45	3.71	SOCS3, NGFRAP1, F2R, ETS1, SQSTM1, YBX3
+15	Mapk Signaling Pathway (Mus Musculus)	1.31e-02	-1.72	2.96	MAP4K1, RAP1B, HSPA8, MEF2C, MAP3K1, GADD45A, RASA1, CASP1, ATF4, TGFBR2
+16	Chemokine Signaling Pathway (Mus Musculus)	1.91e-02	-1.52	2.4	NFKBIA, RAP1B, CCL5, STAT3, CXCR5, CXCR4, XCL1, CCR7, CCR6, RELA
+17	Bdnf Signaling Pathway (Homo Sapiens)	2.01e-02	-1.42	2.25	NFKBIA, EGR1, EGR2, MEF2C, MAP3K1, STAT3, IRS2, SQSTM1, RELA
+18	Mapk Signaling Pathway (Homo Sapiens)	2.51e-02	-1.55	2.25	MAP4K1, RAP1B, HSPA8, MEF2C, MAP3K1, GADD45A, RASA1, CASP1, ATF4, TGFBR2
+19	Signaling Of Hepatocyte Growth Factor Receptor (Homo Sapiens)	1.67e-02	-1.16	1.83	MAP4K1, RAP1B, RASA1, STAT3
+20	Signaling Of Hepatocyte Growth Factor Receptor (Mus Musculus)	1.83e-02	-1.14	1.8	MAP4K1, RAP1B, RASA1, STAT3
+21	Myometrial Relaxation And Contraction Pathways (Mus Musculus)	2.79e-02	-1.25	1.8	PRKAR1A, ATP2A3, PDE4B, PLCG2, YWHAZ, ACTB, ATF3, ETS2, ATF4
+22	Apoptosis (Mus Musculus)	2.63e-02	-1.19	1.74	NFKBIA, MAP3K1, IRF4, IRF1, CASP1, RELA
+23	Il-1 Signaling Pathway (Homo Sapiens)	2.65e-02	-1.17	1.71	NFKBIA, MAP3K1, REL, SQSTM1, RELA
+24	Pdgf Pathway (Homo Sapiens)	1.99e-02	-1.08	1.71	NFKBIA, MAP3K1, RASA1, STAT3
+25	Myometrial Relaxation And Contraction Pathways (Homo Sapiens)	3.21e-02	-1.23	1.7	PRKAR1A, ATP2A3, PDE4B, PLCG2, YWHAZ, ACTB, ATF3, ETS2, ATF4
+26	T-Cell Receptor And Co-Stimulatory Signaling (Homo Sapiens)	1.52e-02	-1.02	1.66	NFKBIA, LCK, RASA1, CTLA4
+27	Egf/Egfr Signaling Pathway (Homo Sapiens)	3.90e-02	-1.1	1.52	MAP4K1, MEF2C, MAP3K1, RASA1, SH2D2A, STAT3, FOSB, FOXO1, ARF6
+28	Leptin Signaling Pathway (Homo Sapiens)	3.17e-02	-1.09	1.51	SOCS3, STAT3, REL, FOXO1, RELA
+29	Insulin Signaling (Homo Sapiens)	4.16e-02	-1.09	1.5	MAP4K1, EGR1, SOCS3, MAP3K1, STXBP2, SLC2A1, IRS2, FOXO1, ARF6
+30	Il-1 Signaling Pathway (Mus Musculus)	2.17e-02	-0.87	1.35	NFKBIA, CASP1, SQSTM1, RELA
+31	Apoptosis (Homo Sapiens)	3.68e-02	-0.98	1.35	NFKBIA, MAP3K1, IRF4, IRF1, CASP1, RELA
+32	Mrna Processing (Mus Musculus)	5.28e-02	-0.95	1.19	DDX6, MBNL1, RPL32, RPL12, EIF4A3, CIRBP, ZCRB1, LSM4, PUF60, RPS29, DHX38, MATR3, HNRNPC, RPL39, RPS13, RPS24, RPL19
+33	Corticotropin-Releasing Hormone (Homo Sapiens)	4.39e-02	-0.79	1.08	NFKBIA, RAP1B, PLCG2, FOSB, JUNB, RELA
+34	Il-7 Signaling Pathway (Mus Musculus)	3.67e-02	-0.69	0.95	IRF1, STAT3, IRS2, FOXO1
+35	Il-6 Signaling Pathway (Homo Sapiens)	3.67e-02	-0.66	0.91	SOCS3, IRF1, STAT3, JUNB
+36	Il-3 Signaling Pathway (Mus Musculus)	5.83e-02	-0.64	0.79	SOCS3, LCK, STAT3, SLC2A1, YWHAZ, FOXO1
+37	Insulin Signaling (Mus Musculus)	6.78e-02	-0.68	0.76	MAP4K1, EGR1, SOCS3, MAP3K1, STXBP2, SLC2A1, FOXO1, ARF6
+38	Tslp Signaling Pathway (Homo Sapiens)	4.74e-02	-0.4	0.54	NFKBIA, LCK, STAT3, RELA
+39	Type Ii Interferon Signaling  (Ifng) (Mus Musculus)	3.92e-02	-0.33	0.45	SOCS3, IFNGR1, IRF4, IRF1
+40	Leptin Insulin Overlap (Mus Musculus)	1.16e-02	-0.24	0.43	SOCS3, STAT3, IRS2
+41	Egfr1 Signaling Pathway (Mus Musculus)	1.11e-01	-0.51	0.42	SOCS3, CEBPB, MAP3K1, PRKAR1A, RASA1, STAT3, PLCG2, FOXO1
+42	Delta-Notch Signaling Pathway (Mus Musculus)	8.10e-02	-0.34	0.34	NFKBIA, MEF2C, LCK, STAT3, RELA
+43	Membrane Trafficking (Homo Sapiens)	7.79e-02	-0.33	0.33	HSPA8, UBB, FTH1, VPS37B, UBA52
+44	Tnf Alpha Signaling Pathway (Homo Sapiens)	9.75e-02	-0.39	0.33	NFKBIA, MAP3K1, TBK1, REL, TNFAIP3
+45	Translation Factors (Mus Musculus)	4.46e-02	-0.14	0.19	EIF4A1, EIF5, EIF3F, EIF3D
+46	Type Ii Interferon Signaling  (Ifng) (Homo Sapiens)	5.64e-02	-0.11	0.13	SOCS3, IFNGR1, IRF4, IRF1
+47	Il-9 Signaling Pathway (Mus Musculus)	3.48e-02	-0.03	0.04	SOCS3, STAT3, IRS2
+48	Translation Factors (Homo Sapiens)	9.26e-02	-0.03	0.03	EIF4A1, EIF5, EIF3F, EIF3D
+49	Il-6 Signaling Pathway (Mus Musculus)	1.39e-01	-0.0	0.0	PPP2CB, SOCS3, CEBPB, STAT3, FOXO1
+50	Metapathway Biotransformation (Homo Sapiens)	9.94e-01	4.57	-0.03	HS3ST1
+51	Age/Rage Pathway (Homo Sapiens)	1.19e-01	0.05	-0.04	NFKBIA, STAT3, FOXO1, RELA
+52	Metapathway Biotransformation (Mus Musculus)	9.72e-01	4.8	-0.12	HS3ST1
+53	Focal Adhesion (Homo Sapiens)	9.65e-01	4.58	-0.12	RAP1B, ACTB
+54	Focal Adhesion (Mus Musculus)	9.63e-01	4.59	-0.12	RAP1B, ACTB
+55	Micrornas In Cardiomyocyte Hypertrophy (Homo Sapiens)	9.51e-01	4.74	-0.12	STAT3
+56	Wnt Signaling Pathway Netpath (Mus Musculus)	9.47e-01	4.76	-0.12	MARK2
+57	Odorant Gpcrs (Mus Musculus)	9.66e-01	4.83	-0.13	GPR171
+58	Esc Pluripotency Pathways (Mus Musculus)	9.60e-01	4.84	-0.13	STAT3
+59	Tsh Signaling Pathway (Homo Sapiens)	1.23e-01	0.16	-0.13	GNA13, RAP1B, EGR1, STAT3
+60	Integrin-Mediated Cell Adhesion (Mus Musculus)	9.32e-01	4.72	-0.14	RAP1B
+61	Integrin-Mediated Cell Adhesion (Homo Sapiens)	9.38e-01	4.72	-0.14	RAP1B
+62	Neural Crest Differentiation (Homo Sapiens)	9.39e-01	4.77	-0.14	ETS1
+63	Wnt Signaling Pathway And Pluripotency (Homo Sapiens)	9.38e-01	4.82	-0.14	PPP2CB
+64	Wnt Signaling Pathway And Pluripotency (Mus Musculus)	9.24e-01	4.85	-0.14	PPP2CB
+65	Selenium Micronutrient Network (Homo Sapiens)	9.13e-01	4.94	-0.18	RELA
+66	Rb In Cancer (Homo Sapiens)	9.11e-01	4.99	-0.18	CDT1
+67	Peptide Gpcrs (Mus Musculus)	1.19e-01	0.24	-0.2	CXCR5, CXCR4, CCR7, CCR6
+68	Peptide Gpcrs (Homo Sapiens)	1.52e-01	0.32	-0.21	CXCR5, CXCR4, CCR7, CCR6
+69	Regulation Of Toll-Like Receptor Signaling Pathway (Homo Sapiens)	2.25e-01	0.44	-0.22	NFKBIA, TBK1, CCL5, TNFAIP3, SQSTM1, RELA
+70	Mrna Processing (Homo Sapiens)	8.93e-01	4.42	-0.22	DHX38, HNRNPC
+71	Arrhythmogenic Right Ventricular Cardiomyopathy (Homo Sapiens)	1.57e-01	0.38	-0.24	ACTN2, LMNA, EMD, ACTB
+72	Micrornas In Cardiomyocyte Hypertrophy (Mus Musculus)	8.92e-01	4.92	-0.25	STAT3
+73	Alzheimers Disease (Homo Sapiens)	8.89e-01	4.93	-0.25	ATP2A3
+74	Apoptosis Modulation And Signaling (Homo Sapiens)	8.92e-01	4.93	-0.25	NFKBIA
+75	Plurinetwork (Mus Musculus)	2.66e-01	0.62	-0.26	MEF2C, GADD45A, SATB1, DGKA, STAT3, REL, PIM3, KLF4, KLF2, RELA
+76	Parkin-Ubiquitin Proteasomal System Pathway (Homo Sapiens)	1.68e-01	0.43	-0.26	HSPA9, HSPA8, RNF19A, CASP1
+77	Iron Uptake And Transport (Homo Sapiens)	2.21e-01	0.53	-0.26	TFRC, FTH1, TSC22D3, ATP1B3, ATP1A1
+78	Alzheimers Disease (Mus Musculus)	8.69e-01	5.0	-0.3	ATP2A3
+79	Epo Receptor Signaling (Mus Musculus)	4.18e-02	0.23	-0.32	RASA1, STAT3, IRS2
+80	Folate Metabolism (Homo Sapiens)	8.57e-01	5.23	-0.36	RELA
+81	Gpcrs, Class A Rhodopsin-Like (Mus Musculus)	3.36e-01	1.1	-0.38	CNR2, F2R, CXCR5, CXCR4, ADRB2, CCR6
+82	Interleukin-11 Signaling Pathway (Homo Sapiens)	1.08e-01	0.5	-0.42	SOCS3, STAT3, RELA
+83	Toll-Like Receptor Signaling Pathway (Homo Sapiens)	3.31e-01	1.21	-0.42	NFKBIA, TBK1, CCL5, RELA
+84	G1 To S Cell Cycle Control (Homo Sapiens)	8.45e-01	5.45	-0.43	GADD45A
+85	Il-5 Signaling Pathway (Mus Musculus)	2.98e-01	1.18	-0.43	NFKBIA, STAT3, YWHAZ
+86	Proteasome Degradation (Homo Sapiens)	8.41e-01	5.45	-0.44	UBB
+87	Rankl/Rank Signaling Pathway (Homo Sapiens)	1.97e-01	0.88	-0.46	NFKBIA, SQSTM1, RELA
+88	Non-Odorant Gpcrs (Mus Musculus)	4.16e-01	1.55	-0.47	CD97, CNR2, F2R, CXCR5, CXCR4, CCR7, ADRB2, CCR6
+89	Structural Pathway Of Interleukin 1  (Il-1) (Homo Sapiens)	1.14e-01	0.57	-0.48	NFKBIA, MAP3K1, MKNK2
+90	Heme Biosynthesis (Homo Sapiens)	3.51e-03	0.18	-0.48	ALAD, ALAS2, UROD
+91	Calcium Regulation In The Cardiac Cell (Homo Sapiens)	3.99e-01	1.59	-0.48	PRKAR1A, ATP2A3, ATP1B3, ADRB2, YWHAZ
+92	Spinal Cord Injury (Homo Sapiens)	3.92e-01	1.64	-0.49	EGR1, GADD45A, MIF, AQP1
+93	Epo Receptor Signaling (Homo Sapiens)	4.18e-02	0.36	-0.49	RASA1, STAT3, IRS2
+94	Tgf Beta Signaling Pathway (Homo Sapiens)	2.04e-01	0.96	-0.49	STAT3, SKIL, TGFBR2
+95	Gpcrs, Class A Rhodopsin-Like (Homo Sapiens)	4.29e-01	1.65	-0.5	CNR2, F2R, GPR171, CXCR5, CXCR4, CCR7, ADRB2, CCR6
+96	Senescence And Autophagy (Homo Sapiens)	3.55e-01	1.45	-0.5	UVRAG, CEBPB, IRF1, SQSTM1
+97	Dna Damage Response (Homo Sapiens)	3.06e-01	1.41	-0.51	GADD45A, SESN1, GADD45G
+98	Calcium Regulation In The Cardiac Cell (Mus Musculus)	3.67e-01	1.48	-0.51	PRKAR1A, ATP2A3, ATP1B3, ADRB2, YWHAZ
+99	Tgf Beta Signaling Pathway (Mus Musculus)	1.83e-01	0.96	-0.54	STAT3, SKIL, TGFBR2
+100	Mirna Regulation Of Dna Damage Response (Mus Musculus)	2.61e-01	1.31	-0.55	GADD45A, SESN1, GADD45G
+101	Semaphorin Interactions (Homo Sapiens)	8.22e-01	5.68	-0.56	MYH9
+102	Pathogenic Escherichia Coli Infection (Homo Sapiens)	2.11e-01	1.14	-0.56	ARPC3, YWHAZ, ACTB
+103	Regulation Of Actin Cytoskeleton (Mus Musculus)	7.78e-01	4.11	-0.57	GNA13, F2R, ACTB
+104	Cardiac Progenitor Differentiation (Homo Sapiens)	1.90e-01	1.07	-0.57	MEF2C, CXCR4, THY1
+105	Mir-Targeted Genes In Epithelium - Tarbase (Homo Sapiens)	5.48e-01	2.41	-0.58	GNA13, CD164, CEBPB, MBNL1, BCL6, TPM4, ELOVL5, MATR3, SLC38A2, TGFBR2
+106	Cell Cycle (Homo Sapiens)	7.84e-01	4.29	-0.58	GADD45A, YWHAZ
+107	Hematopoietic Stem Cell Differentiation (Homo Sapiens)	2.04e-01	1.15	-0.59	GYPA, LMO2, CXCR4
+108	Id Signaling Pathway (Mus Musculus)	1.77e-01	1.04	-0.61	LCK, ATF3, RELA
+109	Regulation Of Actin Cytoskeleton (Homo Sapiens)	7.62e-01	4.05	-0.61	GNA13, F2R, ACTB
+110	Il-2 Signaling Pathway (Homo Sapiens)	1.20e-01	0.73	-0.61	SOCS3, LCK, STAT3
+111	G1 To S Cell Cycle Control (Mus Musculus)	8.12e-01	5.96	-0.63	GADD45A
+112	Mir-Targeted Genes In Leukocytes - Tarbase (Homo Sapiens)	4.89e-01	2.27	-0.64	GNA13, CD164, CEBPB, BCL6, MATR3
+113	Gpcrs, Other (Mus Musculus)	3.65e-01	1.87	-0.65	CD97, CCR7, ADRB2
+114	Sids Susceptibility Pathways (Homo Sapiens)	4.63e-01	2.17	-0.65	EGR1, CEBPB, MEF2C, PRKAR1A, YWHAZ
+115	Tweak Signaling Pathway (Homo Sapiens)	1.20e-01	0.79	-0.66	NFKBIA, CCL5, RELA
+116	Nod Pathway (Homo Sapiens)	1.02e-01	0.79	-0.66	NFKBIA, CASP1, RELA
+117	Mir-Targeted Genes In Squamous Cell - Tarbase (Homo Sapiens)	7.03e-01	3.64	-0.67	ELOVL5, PDCD4, SLC38A2, TGFBR2
+118	Il17 Signaling Pathway (Homo Sapiens)	5.78e-02	0.55	-0.68	CEBPB, STAT3, RELA
+119	Mirna Regulation Of Dna Damage Response (Homo Sapiens)	5.60e-01	2.86	-0.68	GADD45A, SESN1, GADD45G
+120	G Protein Signaling Pathways (Mus Musculus)	4.45e-01	2.29	-0.69	GNA13, PRKAR1A, PDE4B
+121	Dna Damage Response  (Only Atm Dependent) (Homo Sapiens)	7.30e-01	4.17	-0.7	MAP3K1, BCL6
+122	Amino Acid Metabolism (Mus Musculus)	7.25e-01	4.19	-0.71	OAT, ODC1
+123	Mir-Targeted Genes In Adipocytes - Tarbase (Homo Sapiens)	1.14e-01	0.85	-0.71	CEBPB, ELOVL5, TGFBR2
+124	Gpcrs, Other (Homo Sapiens)	7.36e-01	4.24	-0.71	F2R, ADRB2
+125	Spinal Cord Injury (Mus Musculus)	7.46e-01	4.28	-0.72	EGR1, GADD45A
+126	Purine Metabolism (Mus Musculus)	6.39e-01	3.33	-0.73	ZNRD1, POLD1, PDE4B, POLR1D
+127	Dna Replication (Homo Sapiens)	1.14e-01	0.88	-0.74	CDT1, POLD1, UBA52
+128	Androgen Receptor Signaling Pathway (Homo Sapiens)	4.59e-01	2.46	-0.74	STAT3, FOXO1, RELA
+129	Podnet: Protein-Protein Interactions In The Podocyte (Mus Musculus)	6.15e-01	3.2	-0.74	RABGEF1, LDB1, ARPC3, PLAUR, MYH9, SLC4A1, ACTB, TGFBR2
+130	G Protein Signaling Pathways (Homo Sapiens)	5.01e-01	2.72	-0.75	GNA13, PRKAR1A, PDE4B
+131	Integrated Pancreatic Cancer Pathway (Homo Sapiens)	6.30e-01	3.38	-0.76	NFKBIA, EGR1, CD82, GADD45A, JUNB
+132	Integrated Breast Cancer Pathway (Homo Sapiens)	6.04e-01	3.24	-0.77	PLK3, GADD45A, FOXO1, TGFBR2
+133	Signaling Pathways In Glioblastoma (Homo Sapiens)	6.72e-01	3.97	-0.78	PLCG2, FOXO1
+134	Allograft Rejection (Homo Sapiens)	6.66e-01	4.01	-0.79	CXCR5, CTLA4
+135	Kit Receptor Signaling Pathway (Mus Musculus)	5.58e-01	3.33	-0.79	RASA1, STAT3
+136	Alpha6-Beta4 Integrin Signaling Pathway (Mus Musculus)	5.34e-01	3.47	-0.83	IRS2, YWHAZ
+137	Erbb Signaling Pathway (Homo Sapiens)	7.78e-01	6.01	-0.84	FOXO1
+138	Endochondral Ossification (Homo Sapiens)	5.58e-01	3.58	-0.85	MEF2C, SLC38A2
+139	Primary Focal Segmental Glomerulosclerosis Fsgs (Homo Sapiens)	5.81e-01	3.73	-0.89	PLAUR, MYH9
+140	Il-3 Signaling Pathway (Homo Sapiens)	4.00e-01	2.96	-0.89	STAT3, CD69
+141	Histone Modifications (Homo Sapiens)	5.81e-01	3.78	-0.9	H3F3B, HIST1H3H
+142	Kit Receptor Signaling Pathway (Homo Sapiens)	4.92e-01	3.45	-0.96	STAT3, JUNB
+143	Notch Signaling Pathway (Homo Sapiens)	5.09e-01	3.65	-0.98	LCK, STAT3
+144	Cardiac Hypertrophic Response (Homo Sapiens)	4.65e-01	3.36	-1.01	MAP4K1, MAP3K1
+145	Vitamin B12 Metabolism (Homo Sapiens)	4.47e-01	3.37	-1.01	CCL5, RELA
+146	Endochondral Ossification (Mus Musculus)	4.92e-01	3.72	-1.04	MEF2C, SLC38A2
+147	Regulation Of Microtubule Cytoskeleton (Homo Sapiens)	3.52e-01	3.05	-1.05	STAT3, MARK2
+148	Complement And Coagulation Cascades (Homo Sapiens)	4.19e-01	3.54	-1.06	F2R, PLAUR
+149	Fas Pathway And Stress Induction Of Hsp Regulation (Homo Sapiens)	2.92e-01	2.91	-1.07	MAP3K1, LMNA
+150	Aryl Hydrocarbon Receptor (Homo Sapiens)	3.42e-01	3.14	-1.09	KLF6, RELA
+151	Atm Signaling Pathway (Homo Sapiens)	3.12e-01	3.04	-1.1	NFKBIA, GADD45A
+152	One Carbon Metabolism And Related Pathways (Mus Musculus)	3.52e-01	3.22	-1.11	CHKB, CHKA
+153	Complement And Coagulation Cascades (Mus Musculus)	4.56e-01	3.75	-1.13	F2R, PLAUR
+154	Glycolysis And Gluconeogenesis (Homo Sapiens)	7.46e-01	6.84	-1.15	SLC2A1
+155	Selenium Metabolism And Selenoproteins (Homo Sapiens)	7.38e-01	6.82	-1.15	RELA
+156	Glycolysis And Gluconeogenesis (Mus Musculus)	7.31e-01	6.87	-1.16	SLC2A1
+157	Heart Development (Homo Sapiens)	7.31e-01	6.99	-1.18	MEF2C
+158	Fas Pathway And Stress Induction Of Hsp Regulation (Mus Musculus)	2.72e-01	2.96	-1.19	MAP3K1, LMNA
+159	Dna Replication (Mus Musculus)	3.22e-01	3.33	-1.21	CDT1, POLD1
+160	Striated Muscle Contraction (Homo Sapiens)	2.92e-01	3.33	-1.22	TPM4, ACTN2
+161	Mirs In Muscle Cell Differentiation (Homo Sapiens)	3.22e-01	3.37	-1.22	MEF2C, PRKAR1A
+162	Heart Development (Mus Musculus)	7.08e-01	7.28	-1.33	MEF2C
+163	P38 Mapk Signaling Pathway (Homo Sapiens)	2.52e-01	3.01	-1.34	MAP3K1, HMGN1
+164	Il-5 Signaling Pathway (Homo Sapiens)	6.74e-01	6.91	-1.36	STAT3
+165	Gastric Cancer Network 1 (Homo Sapiens)	7.00e-01	7.59	-1.4	H3F3B
+166	Splicing Factor Nova Regulated Synpatic Proteins (Mus Musculus)	6.92e-01	7.43	-1.42	STXBP2
+167	Heme Biosynthesis (Mus Musculus)	3.51e-03	0.53	-1.44	ALAD, ALAS2, UROD
+168	Eukaryotic Transcription Initiation (Homo Sapiens)	6.92e-01	7.76	-1.49	POLR1D
+169	Oxidative Damage (Mus Musculus)	2.32e-01	3.04	-1.49	MAP3K1, GADD45A
+170	Parkinsons Disease Pathway (Homo Sapiens)	6.74e-01	7.61	-1.5	UBB
+171	G13 Signaling Pathway (Homo Sapiens)	6.83e-01	7.76	-1.51	GNA13
+172	P38 Mapk Signaling Pathway (Mus Musculus)	2.32e-01	3.12	-1.53	MAP3K1, HMGN1
+173	Striated Muscle Contraction (Mus Musculus)	6.83e-01	8.05	-1.56	ACTN2
+174	Ovarian Infertility Genes (Mus Musculus)	2.22e-01	3.22	-1.58	EGR1, CEBPB
+175	Eukaryotic Transcription Initiation (Mus Musculus)	6.74e-01	8.06	-1.59	POLR1D
+176	Amyotrophic Lateral Sclerosis  (Als) (Homo Sapiens)	6.46e-01	7.69	-1.65	CASP1
+177	Ovarian Infertility Genes (Homo Sapiens)	2.32e-01	3.4	-1.67	EGR1, CEBPB
+178	Mapk Cascade (Mus Musculus)	5.59e-01	7.38	-1.76	MAP3K1
+179	Glycogen Metabolism (Homo Sapiens)	6.36e-01	8.06	-1.77	PPP2CB
+180	Alpha 6 Beta 4 Signaling Pathway (Homo Sapiens)	6.05e-01	7.45	-1.78	IRS2
+181	Mapk Cascade (Homo Sapiens)	5.71e-01	7.46	-1.78	MAP3K1
+182	Hypothetical Network For Drug Addiction (Homo Sapiens)	5.94e-01	7.51	-1.79	NISCH
+183	G13 Signaling Pathway (Mus Musculus)	6.26e-01	8.1	-1.82	GNA13
+184	Fsh Signaling Pathway (Homo Sapiens)	5.35e-01	7.75	-1.85	FOXO1
+185	Gastric Cancer Network 2 (Homo Sapiens)	6.26e-01	8.23	-1.86	AHCTF1
+186	Toll Like Receptor Signaling (Mus Musculus)	6.05e-01	7.79	-1.86	TBK1
+187	Physiological And Pathological Hypertrophy  Of The Heart (Homo Sapiens)	5.35e-01	7.86	-1.88	STAT3
+188	Monoamine Transport (Homo Sapiens)	5.94e-01	8.23	-1.96	PPP2CB
+189	Monoamine Gpcrs (Homo Sapiens)	6.05e-01	8.3	-1.98	ADRB2
+190	Oxidative Stress (Homo Sapiens)	5.94e-01	8.36	-2.0	JUNB
+191	Monoamine Gpcrs (Mus Musculus)	5.94e-01	8.39	-2.0	ADRB2
+192	Fatty Acid Beta Oxidation (Homo Sapiens)	6.16e-01	8.67	-2.01	CHKB
+193	Il-7 Signaling Pathway (Homo Sapiens)	5.08e-01	7.7	-2.08	STAT3
+194	Fatty Acid Beta Oxidation (Mus Musculus)	6.05e-01	8.82	-2.11	CHKB
+195	Glycogen Metabolism (Mus Musculus)	5.71e-01	8.91	-2.13	PPP2CB
+196	Dopminergic Neurogenesis (Mus Musculus)	5.59e-01	9.02	-2.15	STAT3
+197	Inflammatory Response Pathway (Homo Sapiens)	5.83e-01	9.05	-2.16	LCK
+198	Dopminergic Neurogenesis (Homo Sapiens)	5.71e-01	9.13	-2.18	STAT3
+199	Inflammatory Response Pathway (Mus Musculus)	5.71e-01	9.15	-2.18	LCK
+200	Ebv Lmp1 Signaling (Mus Musculus)	1.17e-01	2.65	-2.22	CCL5, RELA
+201	Ebv Lmp1 Signaling (Homo Sapiens)	1.26e-01	2.96	-2.41	CCL5, RELA
+202	Selenium Metabolism/Selenoproteins (Mus Musculus)	4.81e-01	8.71	-2.47	RELA
+203	Serotonin Receptor 4/6/7 And Nr3C Signaling (Homo Sapiens)	4.21e-01	8.24	-2.48	EGR1
+204	Il1 And Megakaryotyces In Obesity (Homo Sapiens)	4.95e-01	9.01	-2.52	F2R
+205	Srf And Mirs In Smooth Muscle Differentiation And Proliferation (Homo Sapiens)	9.96e-02	3.21	-2.69	MEF2C, KLF4
+206	Apoptosis Modulation By Hsp70 (Homo Sapiens)	4.52e-01	9.2	-2.77	MAP3K1
+207	Gpcrs, Class B Secretin-Like (Homo Sapiens)	4.81e-01	9.81	-2.78	CD97
+208	Il-9 Signaling Pathway (Homo Sapiens)	3.71e-01	8.44	-2.91	STAT3
+209	Urea Cycle And Metabolism Of Amino Groups (Homo Sapiens)	1.17e-01	3.48	-2.92	OAT, ODC1
+210	Hypertrophy Model (Homo Sapiens)	4.52e-01	9.8	-2.95	ATF3
+211	Hypertrophy Model (Mus Musculus)	4.36e-01	9.83	-2.96	ATF3
+212	Oxidative Stress (Mus Musculus)	4.66e-01	9.86	-2.97	JUNB
+213	Nucleotide Metabolism (Mus Musculus)	4.21e-01	9.9	-2.98	POLD1
+214	Tp53 Network (Homo Sapiens)	4.52e-01	10.18	-3.06	GADD45A
+215	Nucleotide Metabolism (Homo Sapiens)	4.36e-01	10.18	-3.06	POLD1
+216	Gpcrs, Class B Secretin-Like (Mus Musculus)	4.66e-01	10.21	-3.07	CD97
+217	Sphingolipid Metabolism (Homo Sapiens)	4.52e-01	10.39	-3.13	SERINC1
+218	Globo Sphingolipid Metabolism (Homo Sapiens)	4.52e-01	10.67	-3.21	ST6GAL1
+219	Glycerophospholipid Biosynthetic Pathway (Homo Sapiens)	4.52e-01	10.8	-3.25	CHKB
+220	Osteopontin Signaling (Homo Sapiens)	2.99e-01	8.96	-3.29	RELA
+221	Small Ligand Gpcrs (Homo Sapiens)	4.21e-01	11.12	-3.35	CNR2
+222	Transcriptional Activation By Nrf2 (Homo Sapiens)	3.71e-01	9.77	-3.37	CEBPB
+223	Tfs Regulate Mirnas Related To Cardiac Hypertrophy (Homo Sapiens)	3.54e-01	9.88	-3.41	STAT3
+224	Quercetin And Nf-Kb/ Ap-1 Induced Cell Apoptosis (Homo Sapiens)	3.18e-01	9.7	-3.52	NFKBIA
+225	Small Ligand Gpcrs (Mus Musculus)	4.05e-01	11.75	-3.54	CNR2
+226	Keap1-Nrf2 (Mus Musculus)	3.36e-01	10.36	-3.6	CEBPB
+227	Apoptosis Modulation By Hsp70 (Mus Musculus)	3.71e-01	10.89	-3.76	MAP3K1
+228	Homologous Recombination (Homo Sapiens)	3.18e-01	11.44	-4.15	POLD1
+229	Homologous Recombination (Mus Musculus)	3.18e-01	11.59	-4.21	POLD1
+230	Iron Homeostasis (Mus Musculus)	2.99e-01	11.48	-4.21	FTH1
+231	Kennedy Pathway (Mus Musculus)	6.74e-02	3.91	-4.37	CHKB, CHKA
+232	Cori Cycle (Homo Sapiens)	3.54e-01	12.69	-4.39	SLC2A1
+233	Neurotransmitter Release Cycle (Homo Sapiens)	3.71e-01	12.89	-4.45	SLC38A2
+234	Dopamine Metabolism (Homo Sapiens)	3.18e-01	12.32	-4.47	PPP2CB
+235	Macrophage Markers (Mus Musculus)	3.37e-02	3.5	-4.84	CD74, CD83
+236	Nlr Proteins (Mus Musculus)	2.18e-01	10.32	-5.07	RELA
+237	Serotonin Transporter Activity (Homo Sapiens)	2.79e-01	13.25	-5.11	PPP2CB
+238	Tca Cycle Nutrient Utilization And Invasiveness Of Ovarian Cancer (Homo Sapiens)	1.51e-01	8.38	-5.59	STAT3
+239	Iron Metabolism In Placenta (Homo Sapiens)	5.29e-02	4.7	-5.93	TFRC, FTH1
+240	Mismatch Repair (Mus Musculus)	2.39e-01	12.29	-6.04	POLD1
+241	Mismatch Repair (Homo Sapiens)	2.39e-01	12.32	-6.06	POLD1
+242	Rala Downstream Regulated Genes (Homo Sapiens)	2.39e-01	12.68	-6.23	YBX3
+243	Folate-Alcohol And Cancer Pathway (Homo Sapiens)	2.18e-01	13.19	-6.48	CEBPB
+244	Acetylcholine Synthesis (Homo Sapiens)	1.96e-01	13.59	-7.14	CHKA
+245	Regulation Of Cardiac Hypertrophy By Mir-208 (Mus Musculus)	1.74e-01	13.33	-7.84	HOPX
+246	Acetylcholine Synthesis (Mus Musculus)	1.74e-01	14.71	-8.65	CHKA

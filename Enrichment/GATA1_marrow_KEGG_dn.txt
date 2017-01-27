@@ -1,0 +1,161 @@
+	Term	p-value	z-score	CS	Related Genes
+1	Ribosome	1.04e-09	-1.75	27.26	RPL41, RPL3, RPS8, RPL23, MRPS12, RPL36A, RPS27L, MRPL14, RPS3A, MRPS18C, RPS26, RPL7A, RPS16, RPS29, RPL24, RPLP2, RPS2, UBA52, RPS24
+2	DNA replication	4.22e-06	-1.94	15.47	FEN1, MCM7, RPA3, RPA1, MCM4, MCM5, MCM6, MCM2
+3	Cell cycle	8.92e-06	-1.68	12.87	RB1, MCM7, GADD45A, FZR1, CCNB1, TFDP2, E2F1, E2F2, MCM4, MCM5, ANAPC5, MCM6, MCM2
+4	Porphyrin and chlorophyll metabolism	8.73e-05	-1.72	9.75	ALAD, ALAS2, FECH, UROD, UROS, BLVRB, PPOX
+5	Proteasome	4.26e-03	-1.53	3.05	PSMD8, PSMD4, PSME3, PSMD1, PSMF1
+6	Alcoholism	8.76e-03	-1.75	2.82	H3F3B, HIST1H2AI, HIST1H2AH, HAT1, H2AFX, HIST2H2AB, HIST1H2AD, HIST1H2AG, ATF4, HIST1H3E
+7	Glutathione metabolism	8.13e-03	-1.66	2.67	GPX1, MGST3, ODC1, GCLM, GSTM5
+8	Systemic lupus erythematosus	1.35e-02	-1.57	2.06	H3F3B, HIST1H2AI, HIST1H2AH, H2AFX, HIST2H2AB, HIST1H2AD, HIST1H2AG, HIST1H3E
+9	Parkinson's disease	1.75e-02	-1.55	1.97	UBB, NDUFS7, ATP5C1, UBE2L6, ATP5H, COX6C, NDUFV1, SNCA
+10	Bladder cancer	1.68e-02	-1.51	1.92	RB1, DAPK2, E2F1, E2F2
+11	Oxidative phosphorylation	3.47e-02	-1.57	1.07	ATP6AP1, NDUFS7, COX17, ATP5C1, ATP5H, COX6C, NDUFV1
+12	Epstein-Barr virus infection	9.21e-02	-1.68	0.09	RB1, PSMD8, MAP2K3, HSPA8, USP7, PSMD4, EIF2AK1, PSMD1
+13	Apoptosis	1.03e-01	-1.6	0.09	TUBA1B, GADD45A, LMNA, BIRC5, ATF4, CTSB
+14	RNA transport	1.00e-01	-1.55	0.09	EIF5, NUP85, PABPC4, EIF3I, PABPC1, RANGAP1, THOC7
+15	Protein processing in endoplasmic reticulum	9.36e-02	-1.53	0.09	DNAJB2, HSPA8, DNAJB1, EIF2AK1, SEC61G, BAG1, ATF4
+16	Hepatitis B	1.19e-01	-1.5	0.08	RB1, ATP6AP1, E2F1, E2F2, BIRC5, ATF4
+17	Non-alcoholic fatty liver disease (NAFLD)	1.33e-01	-1.5	0.08	NDUFS7, COX6C, ADIPOR1, PRKAB1, NDUFV1, ATF4
+18	Huntington's disease	1.52e-01	-1.36	0.08	GPX1, NDUFS7, ATP5C1, ATP5H, COX6C, NDUFV1, SOD1
+19	Prostate cancer	1.49e-01	-1.35	0.08	RB1, E2F1, E2F2, ATF4
+20	Non-small cell lung cancer	1.40e-01	-1.3	0.07	RB1, E2F1, E2F2
+21	Alzheimer's disease	1.86e-01	-1.24	0.07	NDUFS7, ATP5C1, ATP5H, COX6C, NDUFV1, SNCA
+22	Glioma	1.89e-01	-1.16	0.07	RB1, E2F1, E2F2
+23	Spliceosome	1.92e-01	-1.16	0.07	HSPA8, PHF5A, PLRG1, LSM4, BCAS2
+24	Amyotrophic lateral sclerosis (ALS)	1.16e-01	-1.15	0.06	MAP2K3, GPX1, SOD1
+25	Longevity regulating pathway - multiple species	1.83e-01	-1.15	0.06	HSPA8, PRKAB1, SOD1
+26	Pancreatic cancer	1.94e-01	-1.01	0.06	RB1, E2F1, E2F2
+27	Ubiquitin mediated proteolysis	2.04e-01	-0.93	0.05	UBE2H, FZR1, UBE2O, UBE2L6, ANAPC5
+28	Metabolic pathways	2.93e-01	-0.92	0.05	ALAS2, CMAS, FECH, PON2, PIGQ, ODC1, COX17, ATP5C1, DLST, ATP5H, PPOX, COMT, TRAK2, ALAD, UGCG, UROD, ST3GAL5, ACSS1, NDUFV1, FAHD1, ATP6AP1, GCH1, ACSL1, SPHK1, UROS, ASNS, COX6C, NDUFS7, ALDH1A1, PGP, GCLM
+29	Melanoma	2.23e-01	-0.84	0.05	RB1, E2F1, E2F2
+30	Chronic myeloid leukemia	2.35e-01	-0.82	0.05	RB1, E2F1, E2F2
+31	Adipocytokine signaling pathway	2.17e-01	-0.75	0.04	ACSL1, ADIPOR1, PRKAB1
+32	Phagosome	2.73e-01	-0.7	0.04	TUBA1B, ATP6AP1, TFRC, SEC61G, MPO
+33	p53 signaling pathway	2.12e-01	-0.7	0.04	CCNB1, CD82, GADD45A
+34	RNA degradation	2.58e-01	-0.68	0.04	PABPC4, PABPC1, LSM4
+35	Antigen processing and presentation	2.58e-01	-0.55	0.03	HSPA8, PSME3, CTSB
+36	Lysosome	3.07e-01	-0.54	0.03	ATP6AP1, AP1B1, CTSE, CTSB
+37	Mismatch repair	1.04e-01	-0.37	0.02	RPA3, RPA1
+38	Influenza A	3.65e-01	-0.42	0.02	MAP2K3, HSPA8, DNAJB1, RSAD2, EIF2AK1
+39	FoxO signaling pathway	3.57e-01	-0.38	0.02	USP7, CCNB1, GADD45A, PRKAB1
+40	Small cell lung cancer	3.13e-01	-0.3	0.02	RB1, E2F1, E2F2
+41	GABAergic synapse	3.25e-01	-0.26	0.01	SLC38A2, SLC38A5, TRAK2
+42	Homologous recombination	1.49e-01	-0.23	0.01	RPA3, RPA1
+43	Prion diseases	1.96e-01	-0.18	0.01	PRNP, SOD1
+44	Tyrosine metabolism	1.96e-01	-0.17	0.01	FAHD1, COMT
+45	Longevity regulating pathway - mammal	3.61e-01	-0.21	0.01	ADIPOR1, PRKAB1, ATF4
+46	Transcriptional misregulation in cancer	3.87e-01	-0.29	0.01	H3F3B, LDB1, LMO2, MPO, HIST1H3E
+47	Progesterone-mediated oocyte maturation	3.85e-01	-0.23	0.0	FZR1, CCNB1, ANAPC5
+48	Carbon metabolism	4.73e-01	0.15	-0.0	PGP, DLST, ACSS1
+49	Herpes simplex infection	6.04e-01	0.32	-0.0	USP7, EEF1D, EIF2AK1, HCFC1
+50	HTLV-I infection	6.95e-01	0.58	-0.0	RB1, E2F1, E2F2, ANAPC5, ATF4
+51	Drug metabolism - cytochrome P450	4.67e-01	0.68	-0.0	MGST3, GSTM5
+52	Thyroid hormone synthesis	4.81e-01	0.72	-0.0	GPX1, ATF4
+53	Metabolism of xenobiotics by cytochrome P450	4.95e-01	0.73	-0.0	MGST3, GSTM5
+54	GnRH signaling pathway	6.12e-01	0.74	-0.0	MAP2K3, ATF4
+55	Estrogen signaling pathway	6.57e-01	0.75	-0.0	HSPA8, ATF4
+56	Hematopoietic cell lineage	5.94e-01	0.76	-0.0	GYPA, TFRC
+57	Bile secretion	4.81e-01	0.76	-0.0	ABCB4, AQP1
+58	mRNA surveillance pathway	6.12e-01	0.78	-0.0	PABPC4, PABPC1
+59	Glucagon signaling pathway	6.68e-01	0.8	-0.0	PRKAB1, ATF4
+60	Chemical carcinogenesis	5.57e-01	0.8	-0.0	MGST3, GSTM5
+61	TNF signaling pathway	7.12e-01	0.83	-0.0	MAP2K3, ATF4
+62	ECM-receptor interaction	5.57e-01	0.84	-0.0	CD47, AGRN
+63	Peroxisome	5.63e-01	0.88	-0.0	ACSL1, SOD1
+64	Protein digestion and absorption	6.06e-01	0.94	-0.0	COL5A1, SLC38A2
+65	Neurotrophin signaling pathway	7.55e-01	0.96	-0.0	NGFRAP1, ATF4
+66	Hypertrophic cardiomyopathy (HCM)	5.63e-01	0.97	-0.0	LMNA, PRKAB1
+67	Toxoplasmosis	7.47e-01	0.99	-0.0	MAP2K3, HSPA8
+68	Oocyte meiosis	7.67e-01	1.03	-0.0	CCNB1, ANAPC5
+69	AMPK signaling pathway	7.71e-01	1.05	-0.0	ADIPOR1, PRKAB1
+70	MAPK signaling pathway	8.29e-01	1.21	-0.0	MAP2K3, HSPA8, GADD45A, ATF4
+71	Measles	8.13e-01	1.24	-0.0	HSPA8, EIF2AK1
+72	Dopaminergic synapse	7.90e-01	1.28	-0.0	COMT, ATF4
+73	Hepatitis C	8.03e-01	1.29	-0.0	PSME3, EIF2AK1
+74	Viral carcinogenesis	8.43e-01	1.3	-0.0	RB1, USP7, ATF4
+75	Insulin signaling pathway	8.23e-01	1.3	-0.0	PRKAR2B, PRKAB1
+76	Endocytosis	9.33e-01	1.57	-0.0	HSPA8, TFRC, ARF5
+77	Tuberculosis	9.11e-01	1.61	-0.0	ATP6AP1, SPHK1
+78	Pathways in cancer	9.47e-01	1.81	-0.0	RB1, DAPK2, E2F1, BIRC5, E2F2
+79	HIF-1 signaling pathway	9.03e-01	1.84	-0.0	TFRC
+80	MicroRNAs in cancer	9.91e-01	1.86	-0.0	E2F1, E2F2
+81	Adrenergic signaling in cardiomyocytes	9.65e-01	1.86	-0.0	ATF4
+82	Hippo signaling pathway	9.69e-01	1.87	-0.0	BIRC5
+83	Phospholipase D signaling pathway	9.62e-01	1.88	-0.0	SPHK1
+84	Insulin resistance	9.15e-01	1.88	-0.0	PRKAB1
+85	Toll-like receptor signaling pathway	9.10e-01	1.88	-0.0	MAP2K3
+86	Calcium signaling pathway	9.83e-01	1.9	-0.0	SPHK1
+87	Cytokine-cytokine receptor interaction	9.98e-01	1.93	-0.0	PPBP
+88	Fc gamma R-mediated phagocytosis	8.79e-01	1.94	-0.0	SPHK1
+89	Sphingolipid signaling pathway	9.34e-01	1.95	-0.0	SPHK1
+90	Inflammatory mediator regulation of TRP channels	8.92e-01	1.96	-0.0	MAP2K3
+91	Axon guidance	9.44e-01	1.97	-0.0	SEMA4B
+92	Oxytocin signaling pathway	9.72e-01	1.98	-0.0	PRKAB1
+93	Pyrimidine metabolism	9.07e-01	1.98	-0.0	TXNRD2
+94	Glycerophospholipid metabolism	8.84e-01	1.98	-0.0	LPCAT3
+95	Rap1 signaling pathway	9.92e-01	1.98	-0.0	MAP2K3
+96	Glutamatergic synapse	9.25e-01	1.98	-0.0	SLC38A2
+97	Cholinergic synapse	9.19e-01	1.99	-0.0	ATF4
+98	Proteoglycans in cancer	9.90e-01	2.0	-0.0	ANK1
+99	cGMP-PKG signaling pathway	9.77e-01	2.01	-0.0	ATF4
+100	Rheumatoid arthritis	8.70e-01	2.03	-0.0	ATP6AP1
+101	PI3K-Akt signaling pathway	1.00e+00	2.06	-0.0	ATF4
+102	VEGF signaling pathway	7.50e-01	2.06	-0.0	SPHK1
+103	Chemokine signaling pathway	9.86e-01	2.07	-0.0	PPBP
+104	Gap junction	8.64e-01	2.09	-0.0	TUBA1B
+105	Dilated cardiomyopathy	8.70e-01	2.1	-0.0	LMNA
+106	Fc epsilon RI signaling pathway	7.87e-01	2.1	-0.0	MAP2K3
+107	Insulin secretion	8.55e-01	2.13	-0.0	ATF4
+108	Long-term potentiation	7.77e-01	2.15	-0.0	ATF4
+109	Aldosterone synthesis and secretion	8.41e-01	2.18	-0.0	ATF4
+110	Amphetamine addiction	7.82e-01	2.27	-0.0	ATF4
+111	Retinol metabolism	7.72e-01	2.28	-0.0	ALDH1A1
+112	Colorectal cancer	7.56e-01	2.29	-0.0	BIRC5
+113	Cardiac muscle contraction	8.30e-01	2.3	-0.0	COX6C
+114	PPAR signaling pathway	7.92e-01	2.36	-0.0	ACSL1
+115	RIG-I-like receptor signaling pathway	7.96e-01	2.36	-0.0	OTUD5
+116	Epithelial cell signaling in Helicobacter pylori infection	7.87e-01	2.42	-0.0	ATP6AP1
+117	Steroid hormone biosynthesis	7.33e-01	2.43	-0.0	COMT
+118	Glycolysis / Gluconeogenesis	7.82e-01	2.46	-0.0	ACSS1
+119	Arrhythmogenic right ventricular cardiomyopathy (ARVC)	8.14e-01	2.46	-0.0	LMNA
+120	Pathogenic Escherichia coli infection	7.14e-01	2.47	-0.0	TUBA1B
+121	Lysine degradation	6.94e-01	2.5	-0.0	DLST
+122	Arachidonic acid metabolism	7.56e-01	2.57	-0.0	GPX1
+123	Aminoacyl-tRNA biosynthesis	7.77e-01	2.63	-0.0	AARS
+124	Cocaine addiction	6.73e-01	2.66	-0.0	ATF4
+125	Amino sugar and nucleotide sugar metabolism	6.66e-01	2.69	-0.0	CMAS
+126	Mineral absorption	6.88e-01	2.7	-0.0	FTH1
+127	Vasopressin-regulated water reabsorption	6.34e-01	2.87	-0.0	DYNLL1
+128	Fatty acid degradation	6.34e-01	3.06	-0.0	ACSL1
+129	Cysteine and methionine metabolism	6.42e-01	3.06	-0.0	GCLM
+130	Alanine, aspartate and glutamate metabolism	5.53e-01	3.34	-0.0	ASNS
+131	Glyoxylate and dicarboxylate metabolism	4.77e-01	3.37	-0.0	PGP
+132	Propanoate metabolism	5.22e-01	3.43	-0.0	ACSS1
+133	Base excision repair	5.32e-01	3.5	-0.0	FEN1
+134	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	4.40e-01	3.52	-0.0	PIGQ
+135	Citrate cycle (TCA cycle)	5.00e-01	3.63	-0.0	DLST
+136	beta-Alanine metabolism	5.11e-01	3.72	-0.0	SMOX
+137	Collecting duct acid secretion	4.65e-01	3.93	-0.0	SLC4A1
+138	Circadian rhythm	5.00e-01	4.16	-0.0	PRKAB1
+139	Renin secretion	4.29e-01	0.64	-0.0	CTSB, AQP1
+140	Glycine, serine and threonine metabolism	2.37e-01	0.14	-0.01	ALAS2, SRR
+141	Pyruvate metabolism	2.37e-01	0.22	-0.01	HAGH, ACSS1
+142	Glycosaminoglycan biosynthesis - heparan sulfate / heparin	4.28e-01	3.6	-0.02	HS6ST1
+143	ABC transporters	2.69e-01	0.32	-0.02	ABCB4, ABCG4
+144	Nucleotide excision repair	2.94e-01	0.33	-0.02	RPA3, RPA1
+145	Malaria	3.10e-01	0.37	-0.02	GYPA, GYPC
+146	Sphingolipid metabolism	2.94e-01	0.39	-0.02	UGCG, SPHK1
+147	Fatty acid metabolism	3.02e-01	0.41	-0.02	ACSL1, FADS1
+148	Legionellosis	3.59e-01	0.52	-0.02	EEF1G, HSPA8
+149	Vibrio cholerae infection	3.27e-01	0.47	-0.03	ATP6AP1, SEC61G
+150	Arginine and proline metabolism	3.19e-01	0.49	-0.03	SMOX, ODC1
+151	Fanconi anemia pathway	3.43e-01	0.7	-0.03	RPA3, RPA1
+152	Protein export	4.15e-01	3.48	-0.03	SEC61G
+153	Proximal tubule bicarbonate reclamation	4.15e-01	3.49	-0.03	AQP1
+154	Biosynthesis of unsaturated fatty acids	4.15e-01	3.51	-0.03	FADS1
+155	Terpenoid backbone biosynthesis	4.02e-01	4.7	-0.04	FNTB
+156	Non-homologous end-joining	2.68e-01	3.58	-0.2	FEN1
+157	Folate biosynthesis	2.84e-01	3.7	-0.21	GCH1
+158	Fatty acid biosynthesis	2.68e-01	4.19	-0.24	ACSL1
+159	Glycosphingolipid biosynthesis - ganglio series	3.00e-01	4.35	-0.25	ST3GAL5
+160	Selenocompound metabolism	3.31e-01	5.03	-0.28	TXNRD2

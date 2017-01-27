@@ -1,0 +1,40 @@
+	marrow_up	spleen_up	marrow_dn	spleen_dn
+Mp0000313 Abnormal Cell Death 	2.0	3.96	17.2	2.67
+Mp0000350 Abnormal Cell Proliferation 	0.0	0.0	18.83	6.03
+Mp0000689 Abnormal Spleen Morphology 	23.33	13.22	9.57	31.09
+Mp0000703 Abnormal Thymus Morphology 	8.07	2.71	2.99	21.0
+Mp0000716 Abnormal Immune System 	74.8	36.41	0.0	60.31
+Mp0000858 Altered Metastatic Potential 	7.89	9.73	2.43	5.23
+Mp0001533 Abnormal Skeleton Physiology 	20.56	15.9	0.0	2.03
+Mp0001800 Abnormal Humoral Immune 	47.3	21.97	0.0	40.2
+Mp0001819 Abnormal Immune Cell 	99.92	58.06	0.0	80.37
+Mp0001835 Abnormal Antigen Presentation 	16.06	14.58	0.0	2.35
+Mp0001845 Abnormal Inflammatory Respons 	44.98	34.39	1.11	16.7
+Mp0001853 Heart Inflammation 	11.0	6.88	0.0	10.63
+Mp0002019 Abnormal Tumor Incidence 	8.37	5.24	10.42	16.61
+Mp0002080 Prenatal Lethality 	0.0	0.0	27.07	18.81
+Mp0002083 Premature Death 	3.9	0.0	10.06	6.2
+Mp0002086 Abnormal Extraembryonic Tissu 	0.0	0.0	9.37	11.4
+Mp0002148 Abnormal Hypersensitivity Rea 	25.04	13.24	0.0	19.48
+Mp0002398 Abnormal Bone Marrow 	52.88	12.5	23.09	60.63
+Mp0002405 Respiratory System Inflammati 	26.93	13.58	0.0	3.05
+Mp0002419 Abnormal Innate Immunity 	89.05	76.74	0.0	12.56
+Mp0002420 Abnormal Adaptive Immunity 	100.68	55.52	0.0	82.97
+Mp0002429 Abnormal Blood Cell 	76.61	32.98	27.0	67.61
+Mp0002452 Abnormal Antigen Presenting 	78.73	51.29	0.0	54.55
+Mp0002722 Abnormal Immune System 	33.39	13.66	13.31	40.23
+Mp0002723 Abnormal Immune Serum 	84.74	30.95	0.0	74.43
+Mp0002998 Abnormal Bone Remodeling 	15.02	7.06	0.0	0.0
+Mp0003077 Abnormal Cell Cycle 	0.0	1.15	18.89	3.7
+Mp0003111 Abnormal Nucleus Morphology 	0.0	0.0	30.62	0.0
+Mp0003436 Decreased Susceptibility To 	14.3	16.62	0.0	0.0
+Mp0003656 Abnormal Erythrocyte Physiolo 	0.0	0.0	44.59	0.0
+Mp0003795 Abnormal Bone Structure 	12.03	4.0	0.0	5.56
+Mp0005000 Abnormal Immune Tolerance 	42.78	34.98	0.0	28.07
+Mp0005025 Abnormal Response To 	75.01	52.57	1.97	19.1
+Mp0005390 Skeleton Phenotype 	14.49	5.77	0.0	2.5
+Mp0005636 Abnormal Mineral Homeostasis 	0.0	2.45	19.11	3.32
+Mp0008469 Abnormal Protein Level 	20.03	6.8	8.74	4.33
+Mp0009763 Increased Sensitivity To 	19.01	17.12	10.71	15.41
+Mp0009785 Altered Susceptibility To 	26.0	11.0	0.0	3.44
+Mp0009931 Abnormal Skin Appearance 	2.16	0.0	8.15	13.03

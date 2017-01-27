@@ -1,0 +1,212 @@
+	Term	p-value	z-score	CS	Related Genes
+1	Ribosome	2.08e-12	-1.75	37.62	RPS9, RPL41, RPS8, RPL31, RPS5, RPLP1, RPL13A, MRPL36, MRPL12, MRPL23, RPL10A, MRPL33, RPS26, RPS4X, RPS25, RPS14, RPL36AL, RPL27A, RPS3, RPS2, RPL29, RPS11, RPS12
+2	Parkinson's disease	1.04e-09	-1.74	27.96	NDUFA9, NDUFB8, NDUFA7, NDUFA3, NDUFA2, ATP5C1, ATP5G3, COX6C, ATP5G2, COX5A, UQCRH, UBE2L3, COX6B1, ATP5B, COX7A2L, VDAC1, UQCRC2, NDUFV2, SLC25A5, PRKACB
+3	Huntington's disease	5.29e-09	-1.85	27.41	NDUFA9, NDUFB8, NDUFA7, GPX1, NDUFA3, NDUFA2, ATP5C1, ATP5G3, COX6C, ATP5G2, COX5A, UQCRH, COX6B1, ATP5B, COX7A2L, VDAC1, POLR2G, UQCRC2, NDUFV2, SLC25A5, POLR2J, POLR2L
+4	Oxidative phosphorylation	1.32e-08	-1.75	24.81	NDUFA9, NDUFB8, NDUFA7, NDUFA3, NDUFA2, ATP5C1, ATP5G3, COX6C, ATP5G2, COX5A, UQCRH, ATP5J2, ATP5L, COX6B1, ATP5B, COX7A2L, UQCRC2, NDUFV2
+5	Alzheimer's disease	7.11e-08	-1.74	22.15	PSENEN, NDUFA9, NDUFB8, NDUFA7, NDUFA3, NDUFA2, ATP5C1, ATP5G3, COX6C, ATP5G2, COX5A, UQCRH, COX6B1, ATP5B, COX7A2L, IL1B, UQCRC2, NDUFV2, GAPDH
+6	Non-alcoholic fatty liver disease (NAFLD)	3.29e-05	-1.83	12.4	NDUFA9, NDUFB8, NDUFA7, NDUFA3, NDUFA2, COX6C, COX5A, UQCRH, PIK3CG, COX6B1, COX7A2L, IL1B, UQCRC2, NDUFV2
+7	Proteasome	1.77e-04	-1.43	7.47	SHFM1, POMP, PSMB1, PSMA7, PSMB10, PSMB8, PSMB9
+8	Systemic lupus erythematosus	2.24e-03	-1.57	4.45	C3, C1QB, HIST1H2AI, H2AFY, HIST1H2AH, H2AFZ, HIST1H2AK, HIST1H2AD, H2AFV, HIST2H2AC
+9	Alcoholism	1.40e-02	-1.63	2.38	HIST1H2AI, H2AFY, HIST1H2AH, H2AFZ, GNB2, HIST1H2AK, HIST1H2AD, H2AFV, PPP1CA, HIST2H2AC
+10	Leishmaniasis	1.08e-02	-1.61	2.37	C3, IL1B, NCF4, PTPN6, CYBA, FOS
+11	Legionellosis	1.34e-02	-1.5	2.19	EEF1A1, EEF1G, C3, VCP, IL1B
+12	Glutathione metabolism	1.09e-02	-1.48	2.17	GPX1, GPX4, GSTP1, MGST2, PGD
+13	Cardiac muscle contraction	1.43e-02	-1.41	2.06	COX7A2L, UQCRC2, COX6C, COX5A, UQCRH, COX6B1
+14	Protein processing in endoplasmic reticulum	2.52e-02	-1.5	1.46	VCP, SEC13, SSR4, SSR3, ERP29, UBE2E2, RBX1, HSP90B1, TXNDC5
+15	B cell receptor signaling pathway	3.70e-02	-1.53	0.99	CD79B, IFITM1, PTPN6, FOS, PIK3CG
+16	Osteoclast differentiation	4.65e-02	-1.45	0.8	TYROBP, IL1B, NCF4, SIRPA, CYBA, FOS, PIK3CG
+17	Chagas disease (American trypanosomiasis)	4.59e-02	-1.43	0.79	C3, C1QB, IL1B, CCL3, FOS, PIK3CG
+18	Carbon metabolism	6.27e-02	-1.22	0.5	TPI1, PGP, TALDO1, ACADM, PGD, GAPDH
+19	RNA polymerase	4.91e-02	-0.73	0.4	POLR2G, POLR2J, POLR2L
+20	Prion diseases	6.01e-02	-0.81	0.33	C1QB, IL1B, PRKACB
+21	Oocyte meiosis	8.52e-02	-1.35	0.21	ANAPC13, YWHAB, RPS6KA1, PRKACB, PPP1CA, RBX1
+22	Estrogen signaling pathway	1.00e-01	-1.3	0.11	FOS, PRKACB, MMP9, PIK3CG, HSP90B1
+23	Vasopressin-regulated water reabsorption	9.94e-02	-0.9	0.08	ARHGDIB, DYNLL1, PRKACB
+24	Metabolic pathways	1.41e-01	-1.32	0.07	NDUFB8, ALAS1, HIBADH, ATP5C1, PLD4, PYGL, ATP5G3, ATP5G2, COX5A, UQCRH, PIGX, ATP5L, ATP5B, ALDH2, POLR2G, ACADM, NDUFV2, POLR2J, NADK, POLR2L, NDUFA9, NDUFA7, TPI1, NDUFA3, NDUFA2, TALDO1, COX6C, PGD, COX6B1, APRT, NME1, ATP5J2, PGP, DEGS1, UQCRC2, GAPDH
+25	RNA transport	1.32e-01	-1.21	0.06	EEF1A1, SEC13, NUP210, EIF3I, SUMO2, EIF1B, NUP160
+26	Toll-like receptor signaling pathway	1.23e-01	-1.2	0.06	IL1B, CCL3, IRF5, FOS, PIK3CG
+27	Pertussis	1.17e-01	-1.0	0.05	C1QB, C3, IL1B, FOS
+28	Epstein-Barr virus infection	2.26e-01	-0.91	0.05	YWHAB, SHFM1, POLR2G, PRKACB, POLR2J, PIK3CG, POLR2L
+29	Leukocyte transendothelial migration	1.66e-01	-0.91	0.05	RASSF5, NCF4, CYBA, MMP9, PIK3CG
+30	Phagosome	1.78e-01	-0.89	0.05	C3, LAMP1, NCF4, CYBA, MPO, CORO1A
+31	Dopaminergic synapse	2.11e-01	-0.88	0.05	GNB2, FOS, ARRB2, PRKACB, PPP1CA
+32	Inflammatory mediator regulation of TRP channels	2.22e-01	-0.87	0.05	IL1B, PRKACB, PIK3CG, PPP1CA
+33	Salivary secretion	1.78e-01	-0.87	0.04	CST3, LYZ, PRKACB, CAMP
+34	Lysosome	1.86e-01	-0.85	0.04	PLA2G15, LAMP1, PSAP, CTSB, CLN5
+35	Salmonella infection	1.64e-01	-0.83	0.04	IL1B, CCL3, FOS, ARPC5
+36	Progesterone-mediated oocyte maturation	2.22e-01	-0.82	0.04	ANAPC13, RPS6KA1, PRKACB, PIK3CG
+37	Valine, leucine and isoleucine degradation	1.19e-01	-0.78	0.04	HIBADH, ALDH2, ACADM
+38	Staphylococcus aureus infection	1.63e-01	-0.66	0.03	C1QB, C3, FPR2
+39	Tuberculosis	2.70e-01	-0.61	0.03	C3, FCER1G, LAMP1, IL1B, CORO1A, CAMP
+40	Cholinergic synapse	2.90e-01	-0.55	0.03	GNB2, FOS, PRKACB, PIK3CG
+41	TNF signaling pathway	2.84e-01	-0.51	0.03	IL1B, FOS, MMP9, PIK3CG
+42	Insulin resistance	2.79e-01	-0.51	0.03	RPS6KA1, PYGL, PIK3CG, PPP1CA
+43	Pyrimidine metabolism	2.58e-01	-0.51	0.03	POLR2G, POLR2J, NME1, POLR2L
+44	Long-term potentiation	2.24e-01	-0.44	0.02	RPS6KA1, PRKACB, PPP1CA
+45	Proteoglycans in cancer	3.75e-01	-0.41	0.02	PTPN6, NUDT16L1, PRKACB, MMP9, PIK3CG, PPP1CA
+46	Amphetamine addiction	2.30e-01	-0.39	0.02	FOS, PRKACB, PPP1CA
+47	Platelet activation	3.49e-01	-0.39	0.02	FCER1G, PRKACB, PIK3CG, PPP1CA
+48	Inositol phosphate metabolism	2.55e-01	-0.38	0.02	TPI1, PIP4K2A, PIK3CG
+49	Glycolysis / Gluconeogenesis	2.30e-01	-0.36	0.02	TPI1, ALDH2, GAPDH
+50	Thyroid hormone synthesis	2.55e-01	-0.27	0.01	GPX1, PRKACB, HSP90B1
+51	MAPK signaling pathway	4.27e-01	-0.16	0.01	DUSP1, IL1B, RPS6KA1, FOS, ARRB2, PRKACB, DUSP6
+52	Biosynthesis of amino acids	2.75e-01	-0.16	0.01	TPI1, TALDO1, GAPDH
+53	Prostate cancer	3.72e-01	-0.13	0.01	GSTP1, PIK3CG, HSP90B1
+54	Purine metabolism	4.28e-01	-0.05	0.0	POLR2G, POLR2J, NME1, APRT, POLR2L
+55	GABAergic synapse	3.66e-01	-0.04	0.0	GNB2, PRKACB, GABARAP
+56	Natural killer cell mediated cytotoxicity	4.19e-01	-0.04	0.0	TYROBP, FCER1G, PTPN6, PIK3CG
+57	Bacterial invasion of epithelial cells	3.01e-01	-0.04	0.0	SEPT11, ARPC5, PIK3CG
+58	Antigen processing and presentation	2.94e-01	-0.03	0.0	IFI30, B2M, CTSB
+59	Morphine addiction	3.85e-01	-0.01	0.0	GNB2, ARRB2, PRKACB
+60	Fc gamma R-mediated phagocytosis	3.98e-01	0.01	-0.0	MARCKS, ARPC5, PIK3CG
+61	Olfactory transduction	1.00e+00	3.01	-0.0	ARRB2, PRKACB
+62	Neuroactive ligand-receptor interaction	9.99e-01	3.16	-0.0	FPR2
+63	Rheumatoid arthritis	3.79e-01	0.03	-0.0	IL1B, CCL3, FOS
+64	Complement and coagulation cascades	3.07e-01	0.03	-0.0	C1QB, C3, F13A1
+65	Apoptosis	4.46e-01	0.07	-0.0	FOS, PIK3CG, CTSB, MCL1
+66	mRNA surveillance pathway	3.85e-01	0.09	-0.0	SSU72, GSPT1, PPP1CA
+67	Circadian entrainment	4.11e-01	0.11	-0.01	GNB2, FOS, PRKACB
+68	Ubiquitin mediated proteolysis	4.30e-01	0.11	-0.01	ANAPC13, UBE2E2, RBX1, UBE2L3
+69	Insulin signaling pathway	4.40e-01	0.12	-0.01	PYGL, PRKACB, PIK3CG, PPP1CA
+70	Protein export	1.17e-01	0.25	-0.01	SPCS1, SEC11C
+71	Pentose phosphate pathway	1.66e-01	0.28	-0.01	TALDO1, PGD
+72	Amoebiasis	4.43e-01	0.32	-0.02	IL1B, PRKACB, PIK3CG
+73	Herpes simplex infection	4.70e-01	0.32	-0.02	C3, IL1B, FOS, CFP, PPP1CA
+74	Hepatitis B	4.77e-01	0.33	-0.02	YWHAB, FOS, MMP9, PIK3CG
+75	HIF-1 signaling pathway	4.61e-01	0.36	-0.02	GAPDH, PIK3CG, RBX1
+76	Chemokine signaling pathway	4.79e-01	0.41	-0.02	GNB2, CCL3, ARRB2, PRKACB, PIK3CG
+77	Asthma	1.83e-01	0.49	-0.03	FCER1G, PRG2
+78	T cell receptor signaling pathway	4.67e-01	0.53	-0.03	PTPN6, FOS, PIK3CG
+79	beta-Alanine metabolism	1.83e-01	0.65	-0.03	ALDH2, ACADM
+80	Regulation of lipolysis in adipocytes	4.01e-01	0.68	-0.03	PRKACB, PIK3CG
+81	cAMP signaling pathway	5.33e-01	0.69	-0.04	FFAR2, FOS, PRKACB, PIK3CG, PPP1CA
+82	Jak-STAT signaling pathway	5.38e-01	0.74	-0.04	OSM, PTPN6, PIK3CG, MCL1
+83	Oxytocin signaling pathway	5.38e-01	0.75	-0.04	FOS, PRKACB, PIK3CG, PPP1CA
+84	Non-small cell lung cancer	4.01e-01	0.81	-0.04	RASSF5, PIK3CG
+85	Serotonergic synapse	5.15e-01	0.84	-0.04	DUSP1, GNB2, PRKACB
+86	Mineral absorption	3.58e-01	0.88	-0.05	SLC40A1, ATOX1
+87	mTOR signaling pathway	4.34e-01	0.88	-0.05	RPS6KA1, PIK3CG
+88	MicroRNAs in cancer	9.76e-01	3.12	-0.05	MARCKS, MMP9, MCL1
+89	Regulation of actin cytoskeleton	5.97e-01	0.92	-0.05	TMSB4X, PIP4K2A, ARPC5, PIK3CG, PPP1CA
+90	NOD-like receptor signaling pathway	4.09e-01	0.93	-0.05	IL1B, HSP90B1
+91	Pyruvate metabolism	2.62e-01	0.94	-0.05	ALDH2, GLO1
+92	cGMP-PKG signaling pathway	5.81e-01	0.94	-0.05	VDAC1, SLC25A5, PIK3CG, PPP1CA
+93	HTLV-I infection	6.00e-01	0.98	-0.05	ZFP36, VDAC1, FOS, SLC25A5, PRKACB, PIK3CG
+94	Sphingolipid signaling pathway	5.61e-01	1.0	-0.05	FCER1G, DEGS1, PIK3CG
+95	Neurotrophin signaling pathway	5.61e-01	1.01	-0.05	RPS6KA1, ARHGDIB, PIK3CG
+96	Endocytosis	9.51e-01	3.0	-0.05	VPS35, ARPC5, ARRB2
+97	Fatty acid degradation	2.97e-01	1.05	-0.05	ALDH2, ACADM
+98	Rap1 signaling pathway	9.64e-01	3.19	-0.06	RASSF5, PIK3CG
+99	Cell cycle	5.83e-01	1.1	-0.06	ANAPC13, YWHAB, RBX1
+100	Cell adhesion molecules (CAMs)	9.69e-01	3.26	-0.06	SELL
+101	Signaling pathways regulating pluripotency of stem cells	9.69e-01	3.31	-0.06	PIK3CG
+102	AMPK signaling pathway	9.51e-01	3.35	-0.06	PIK3CG
+103	Pathways in cancer	6.30e-01	1.15	-0.06	GSTP1, RASSF5, GNB2, FOS, PRKACB, MMP9, PIK3CG, RBX1, HSP90B1
+104	Colorectal cancer	4.50e-01	1.15	-0.06	FOS, PIK3CG
+105	Hepatitis C	9.61e-01	3.4	-0.06	PIK3CG
+106	Axon guidance	9.55e-01	3.44	-0.06	SEMA4A
+107	Longevity regulating pathway - multiple species	4.66e-01	1.21	-0.06	PRKACB, PIK3CG
+108	Renin secretion	4.66e-01	1.23	-0.06	PRKACB, CTSB
+109	Toxoplasmosis	9.44e-01	3.64	-0.06	PIK3CG
+110	Fc epsilon RI signaling pathway	4.97e-01	1.25	-0.06	FCER1G, PIK3CG
+111	Renal cell carcinoma	4.82e-01	1.34	-0.07	PIK3CG, RBX1
+112	Cytosolic DNA-sensing pathway	4.66e-01	1.43	-0.07	IL1B, POLR2L
+113	Prolactin signaling pathway	5.27e-01	1.44	-0.07	FOS, PIK3CG
+114	PPAR signaling pathway	5.04e-01	1.54	-0.08	DBI, ACADM
+115	Drug metabolism - cytochrome P450	5.04e-01	1.55	-0.08	GSTP1, MGST2
+116	Adrenergic signaling in cardiomyocytes	6.99e-01	1.61	-0.08	PRKACB, PIK3CG, PPP1CA
+117	Metabolism of xenobiotics by cytochrome P450	5.34e-01	1.64	-0.08	GSTP1, MGST2
+118	Chemical carcinogenesis	5.96e-01	1.73	-0.09	GSTP1, MGST2
+119	Longevity regulating pathway - mammal	6.68e-01	1.77	-0.09	PRKACB, PIK3CG
+120	Glycerophospholipid metabolism	6.74e-01	1.84	-0.1	PLA2G15, PLD4
+121	Viral carcinogenesis	7.35e-01	1.91	-0.1	C3, YWHAB, PRKACB, PIK3CG
+122	Phosphatidylinositol signaling system	6.90e-01	1.96	-0.1	PIP4K2A, PIK3CG
+123	AGE-RAGE signaling pathway in diabetic complications	7.06e-01	2.06	-0.11	IL1B, PIK3CG
+124	Glucagon signaling pathway	7.06e-01	2.06	-0.11	PYGL, PRKACB
+125	Choline metabolism in cancer	7.06e-01	2.17	-0.11	FOS, PIK3CG
+126	Retrograde endocannabinoid signaling	7.06e-01	2.19	-0.11	GNB2, PRKACB
+127	Transcriptional misregulation in cancer	8.14e-01	2.25	-0.12	MPO, MMP9, DUSP6
+128	Influenza A	7.99e-01	2.33	-0.12	IL1B, VDAC1, PIK3CG
+129	Ras signaling pathway	8.03e-01	2.34	-0.12	RASSF5, GNB2, PRKACB, PIK3CG
+130	Calcium signaling pathway	8.14e-01	2.35	-0.12	VDAC1, SLC25A5, PRKACB
+131	Glutamatergic synapse	7.66e-01	2.4	-0.12	GNB2, PRKACB
+132	Thyroid hormone signaling pathway	7.82e-01	2.46	-0.13	PRKACB, PIK3CG
+133	Vascular smooth muscle contraction	7.90e-01	2.52	-0.13	PRKACB, PPP1CA
+134	PI3K-Akt signaling pathway	8.38e-01	2.55	-0.13	YWHAB, GNB2, OSM, PIK3CG, HSP90B1, MCL1
+135	FoxO signaling pathway	8.34e-01	2.62	-0.14	GABARAP, PIK3CG
+136	Measles	8.43e-01	2.66	-0.14	IL1B, PIK3CG
+137	Wnt signaling pathway	8.60e-01	2.69	-0.14	PRKACB, RBX1
+138	Melanogenesis	9.13e-01	3.68	-0.14	PRKACB
+139	Focal adhesion	8.69e-01	2.73	-0.14	ZYX, PIK3CG, PPP1CA
+140	Phospholipase D signaling pathway	8.65e-01	2.74	-0.14	FCER1G, PIK3CG
+141	Cytokine-cytokine receptor interaction	8.86e-01	2.77	-0.14	TNFRSF13B, IL1B, OSM, CCL3
+142	Hippo signaling pathway	8.87e-01	2.93	-0.15	YWHAB, PPP1CA
+143	Taste transduction	8.68e-01	3.67	-0.19	PRKACB
+144	ErbB signaling pathway	8.80e-01	3.71	-0.19	PIK3CG
+145	Chronic myeloid leukemia	8.32e-01	3.76	-0.19	PIK3CG
+146	TGF-beta signaling pathway	8.71e-01	3.76	-0.19	RBX1
+147	Hematopoietic cell lineage	8.83e-01	3.8	-0.2	IL1B
+148	NF-kappa B signaling pathway	8.96e-01	3.86	-0.2	IL1B
+149	Gap junction	8.83e-01	3.84	-0.2	PRKACB
+150	GnRH signaling pathway	8.91e-01	3.88	-0.2	PRKACB
+151	Melanoma	8.23e-01	3.89	-0.2	PIK3CG
+152	Insulin secretion	8.74e-01	3.9	-0.2	PRKACB
+153	Peroxisome	8.68e-01	3.91	-0.2	PRDX5
+154	Aldosterone synthesis and secretion	8.61e-01	3.93	-0.2	PRKACB
+155	Central carbon metabolism in cancer	8.05e-01	3.94	-0.2	PIK3CG
+156	Small cell lung cancer	8.77e-01	3.97	-0.2	PIK3CG
+157	Dilated cardiomyopathy	8.89e-01	4.0	-0.21	PRKACB
+158	Adherens junction	8.36e-01	4.05	-0.21	PTPN6
+159	Bile secretion	8.23e-01	4.06	-0.21	PRKACB
+160	Gastric acid secretion	8.36e-01	4.07	-0.21	PRKACB
+161	Ribosome biogenesis in eukaryotes	8.86e-01	4.08	-0.21	IMP3
+162	VEGF signaling pathway	7.75e-01	4.1	-0.21	PIK3CG
+163	Protein digestion and absorption	8.89e-01	4.14	-0.21	PRCP
+164	Pancreatic cancer	8.01e-01	4.16	-0.21	PIK3CG
+165	Shigellosis	7.96e-01	4.18	-0.22	ARPC5
+166	Glioma	7.96e-01	4.3	-0.22	PIK3CG
+167	Carbohydrate digestion and absorption	6.69e-01	4.36	-0.22	PIK3CG
+168	Inflammatory bowel disease (IBD)	7.96e-01	4.37	-0.22	IL1B
+169	Aldosterone-regulated sodium reabsorption	6.18e-01	4.37	-0.23	PIK3CG
+170	Acute myeloid leukemia	7.52e-01	4.39	-0.23	PIK3CG
+171	Bladder cancer	6.36e-01	4.46	-0.23	MMP9
+172	Notch signaling pathway	6.92e-01	4.48	-0.23	PSENEN
+173	Endometrial cancer	7.20e-01	4.52	-0.23	PIK3CG
+174	Endocrine and other factor-regulated calcium reabsorption	6.85e-01	4.52	-0.23	PRKACB
+175	Glycerolipid metabolism	7.64e-01	4.52	-0.23	ALDH2
+176	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis	4.64e-01	4.55	-0.23	PIGX
+177	Type II diabetes mellitus	6.92e-01	4.56	-0.24	PIK3CG
+178	African trypanosomiasis	5.79e-01	4.59	-0.24	IL1B
+179	Malaria	6.99e-01	4.6	-0.24	IL1B
+180	Cocaine addiction	6.99e-01	4.61	-0.24	PRKACB
+181	Fatty acid metabolism	6.92e-01	4.61	-0.24	ACADM
+182	Ether lipid metabolism	6.69e-01	4.61	-0.24	PLD4
+183	Pathogenic Escherichia coli infection	7.40e-01	4.62	-0.24	ARPC5
+184	Nucleotide excision repair	6.85e-01	4.66	-0.24	RBX1
+185	Primary immunodeficiency	5.99e-01	4.71	-0.24	TNFRSF13B
+186	Intestinal immune network for IgA production	6.92e-01	4.75	-0.24	TNFRSF13B
+187	Lysine degradation	7.20e-01	4.77	-0.25	ALDH2
+188	Arachidonic acid metabolism	7.80e-01	4.78	-0.25	GPX1
+189	Glyoxylate and dicarboxylate metabolism	5.02e-01	4.79	-0.25	PGP
+190	Sphingolipid metabolism	6.85e-01	4.8	-0.25	DEGS1
+191	Amyotrophic lateral sclerosis (ALS)	7.14e-01	4.82	-0.25	GPX1
+192	Vibrio cholerae infection	7.14e-01	4.82	-0.25	PRKACB
+193	Type I diabetes mellitus	6.53e-01	4.87	-0.25	IL1B
+194	Ovarian steroidogenesis	7.07e-01	4.89	-0.25	PRKACB
+195	Starch and sucrose metabolism	7.46e-01	4.89	-0.25	PYGL
+196	Hedgehog signaling pathway	7.07e-01	4.9	-0.25	PRKACB
+197	Arginine and proline metabolism	7.07e-01	4.91	-0.25	ALDH2
+198	Graft-versus-host disease	6.36e-01	4.94	-0.25	IL1B
+199	Tryptophan metabolism	6.27e-01	4.99	-0.26	ALDH2
+200	Fructose and mannose metabolism	5.47e-01	5.12	-0.26	TPI1
+201	Porphyrin and chlorophyll metabolism	6.44e-01	5.12	-0.26	ALAS1
+202	Homologous recombination	5.13e-01	5.12	-0.26	SHFM1
+203	Propanoate metabolism	5.47e-01	5.21	-0.27	ACADM
+204	Nicotinate and nicotinamide metabolism	5.13e-01	5.22	-0.27	NADK
+205	Glycine, serine and threonine metabolism	6.27e-01	5.28	-0.27	ALAS1
+206	Regulation of autophagy	6.18e-01	5.3	-0.27	GABARAP
+207	Histidine metabolism	4.51e-01	5.37	-0.28	ALDH2
+208	Renin-angiotensin system	4.38e-01	5.56	-0.29	PRCP
+209	Pentose and glucuronate interconversions	5.89e-01	5.67	-0.29	ALDH2
+210	Ascorbate and aldarate metabolism	4.89e-01	5.86	-0.3	ALDH2
+211	Circadian rhythm	5.25e-01	5.9	-0.3	RBX1
